@@ -2,4 +2,4 @@
 
 安排, Let's Go!
 
-We are passionate about travel, food and culture!
+We are passionate about travel, food, culture and simplicity!
