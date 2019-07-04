@@ -1,5 +1,3 @@
  # AnPai
 
-Hello World!
-
-again
+Food made simple!
