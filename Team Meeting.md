@@ -4,7 +4,7 @@
 
 Hannah to take notes during meetings
 
-##Main Goals (in order of priority)
+## Main Goals (in order of priority)
 
 1. Hannah and Ahmed do super neat sketches of the UI with main focus on the review/comment section. The UI sketches should mainly involve the visuals and flow of the pages. To do this, draw these sketches and have arrows with descriptions and notes. These will help Aaron a lot when it comes to designing these pages in Android Studio. Pages to be completed by Friday: Sign in (log in) page, home screen (with all the restaurants), restaurant screen with info and review / comments, and the profile page. Filters, settings and other features to be completed later.
 2. Aaron to work on login page with the ability to sign in or register an account. This will then go to the restaurant screen to be completed in collaboration with Hannah and Ahmed.
