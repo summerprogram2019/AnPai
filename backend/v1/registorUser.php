@@ -13,7 +13,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' ) {
         isset($_POST['email']) and isset($_POST['password'])
           ) {
             /*
-            once the data has been provided, this allows the data to be
+
+            Once the data has been provided, this allows the data to be
             operated: To operate the data we will import use the script
             DbOperations;
             */
@@ -23,25 +24,34 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' ) {
 
             /*
             Method that has been called from DbOperations;
+
               CreatUser:
                 Parameters;
                   username:
                   email:
                   password:
             */
-            /*
-            Note this method will return true of false. Hence we will close it
-            under an if statement
-             */
-            if ( $db->createUser ($_POST['username'],
-            $_POST['email'],$_POST['password']
-              )
+
+            //Below code keeps track on the how the database is being used, and
+            //tracks the if return 1, the doesnt exist, return 2 if error occurs
+            // returns 0) if user already exists.
+
+            $results = $db->createUser ($_POST['username'],
+            $_POST['email'],$_POST['password']);
+
+            if ($results == 1 )
             ) {
                 $response['error'] = false;
                 $response['message'] = "User has been created";
-            } else {
+            } elseif ($results = 2) {
                 $response ['error'] = true;
                 $response ['message'] = "An error has occured";
+            } elseif ($results == 0) {
+
+              $response ['error'] = true;
+              $response ['message'] = " It looks like you already exist. Please
+              used a different user or email." ;
+
             }
 
     } else {
@@ -50,7 +60,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' ) {
       $response['message'] = "required fields are missing";
 
     }
-
 
 } else {
 
