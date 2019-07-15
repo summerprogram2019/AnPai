@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_a53b57f81cb927ad369940001c2b09689096f392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_272387279a0cc0fe5d781f18906cbc40f7136563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_310bd97c1c9ec2543ebbd0f622f842d2a193ac8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_338520b7c7c5d54eab159b27f235807d9e9b7c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_8949ee86d9708336d104e7df4548ecd5b3cd1286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_12f0a1d6fe94592fcafc824c7da324d97837f7f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\libs\IndoorscapeAlbumPlugin.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f4ac7ae5070911d02290331664a36475fb9a5ebb">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\IndoorscapeAlbumPlugin_d5cff360cffab03e22da182c5257ba55a78752ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_465848363332d221bf3340705e1cd581e109d3e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_f4b07c89f474ff86063e61d2006f68ff9faa6d0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5e70aff15411ac3a7b80aca91daa53b30ba64748">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_e22f825a248f2256f3a1c8cf73a05b3bfcdd462f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_2e966bff439e5ff4bc2340830f62a548b310225e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_63671e84b1f68874f348cb1a8db03b1878a2f2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_e24a53f2136df623398e2905038cf63f0ecafbec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_c834e33c2906fa02fbcb17af3d0bc489eb0629b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.volley\volley\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a6a1348ac6f3e2890a2cd7637b1e18f969ccc1e5">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.1.1_ca677ce86b14bfcacbb18427c8fdfbb8c6ed0810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_ef59433c713d89bf2ba14d274afbc5fd299c4c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android_code\AnPai\app\libs\component_common_sdk_1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c9a69c231e19d3399a40b114931814924cee8ef8">
+        <dex dex="G:\Android_code\AnPai\app\build\intermediates\pre-dexed\debug\component_common_sdk_1.0.0_9b316e1a1b427fe433feb5d9d0f042f01bd649c5.jar" />
+    </item>
+
+</items>
